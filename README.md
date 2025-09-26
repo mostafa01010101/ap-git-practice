@@ -5,10 +5,10 @@ This repository is created for **Advanced Programming (AP)** students to practic
 ## How to participate
 1. Fork this repository into your own GitHub account.
 2. Clone your fork locally.
-3. Create a new branch named `feature/<your-name>`).
-4. Inside the `students/` folder, create a new directory with your name.
+3. Create a new branch named `feature/<your-name>`.
+4. Inside the `students/` folder, create a new directory with your student ID.
 5. Add:
-   - A text file (`info.txt`) containing your name, student ID.  
+   - A text file (`info.txt`) containing your name and your student ID.  
    - A simple script in Java which prints a string (like `Hello World!`).
 6. Commit your changes with meaningful messages (do not commit all changes at once).
 7. Push your branch to your fork.
